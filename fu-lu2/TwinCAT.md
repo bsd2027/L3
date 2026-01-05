@@ -45,7 +45,7 @@ TCBSD 官方镜像是使用 `dd` 工具制作的，实际上对应 FreeBSD 的 i
 
 ![TCBSD](../.gitbook/assets/t5.png)
 
-可以看到出来了一个 `新加卷 F`：
+可以看到出现了一个 `新加卷 F`：
 
 ![TCBSD](../.gitbook/assets/t6.png)
 
